@@ -1,7 +1,8 @@
 ## Sudoku Challenge 
 
-# Prompt: Create a function that takes in a completed sudoku matrix and returns a boolean depeonds on whether the board 
-# completed correctly. 
+# Prompt: 
+Create a function that takes in a completed sudoku matrix and returns a boolean depeonds on whether the board 
+completed correctly. 
 
 # Process: 
 
